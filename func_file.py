@@ -13,8 +13,8 @@ import requests
 import json
 import lyricsgenius
 
-client_id = "85562294a7f4478c9de0879e7c38e64b"
-client_secret = "bd4682a70432479db7a44c6eeda1563b"
+client_id = "<YOUR_SPOTIFY_CLIENT_ID>"
+client_secret = "<YOUR_SPOTIFY_CLIENT_SECRET>"
 
 auth_url = 'https://accounts.spotify.com/api/token'
 auth_data = {
@@ -119,7 +119,7 @@ The track's artist name is: {track_artist_name}
 The track popularity is: {track_popularity}
 The track preview is available on: {track_preview_url}
             """)
-        token = "18dgD3Aeps2BV5gKrgc4TP7jYir9RZCOrOxEtPWFam3yRr10mMhlL8557lR3mCBr"
+        token = "<YOUR_LYRICSGENIUS_ACCESS_TOKEN>"
         genius = lyricsgenius.Genius(token)
 
         song = genius.search_song(track_name, track_artist_name)
