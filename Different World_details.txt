@@ -1,0 +1,12 @@
+
+            *** ALBUM DETAILS ***
+
+The album Different World artist name: Alan Walker
+The album Different World artist id: 7vk5e3vY1uw9plTHJAMwjN
+The album Different World artist url: https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN
+The album Different World url: https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0
+The album Different World id: 3nzuGtN3nXARvvecier4K0
+The album Different World release date: 2018-12-14
+The album Different World image url: https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a
+The album Different World total tracks: 15
+            

@@ -1,0 +1,12 @@
+
+
+            *** Imagine Dragons Details ***
+
+The artist name is: Imagine Dragons
+The artist id is: 53XhwfbYqKCa1cC15pYq2q
+The artist image can be found on: https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e
+The artist URL is: https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q
+The artist total followers are: 47925757
+The artist genres are: ['modern rock', 'pop', 'rock']
+The artist popularity is: 88
+            
